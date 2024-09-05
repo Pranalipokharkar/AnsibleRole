@@ -1,0 +1,6 @@
+
+# defaults file for myrole
+---
+nginx_user: www-data
+nginx_worker_processes: auto
+
